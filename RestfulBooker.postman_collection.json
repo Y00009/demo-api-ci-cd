@@ -1,0 +1,42 @@
+{
+	"id": "6ad65a5f19d9710a52e701e7",
+	"name": "RestfulBooker_API_Collection",
+	"timestamp": "2026-10-19T17:59:04.875Z",
+	"collection_id": "6ad5e77feb51006db22bdd39",
+	"folder_id": 0,
+	"environment_id": "59056049-e8ee827d-e0f2-4485-97d7-c5f1c7e36881",
+	"totalPass": 0,
+	"delay": 0,
+	"persist": true,
+	"status": "finished",
+	"startedAt": "2026-10-19T17:58:55.565Z",
+	"totalFail": 0,
+	"results": [],
+	"count": 1,
+	"totalTime": 0,
+	"collection": {
+		"requests": [
+			{
+				"id": "6ad5ed74946a3b0ac80e3400"
+			},
+			{
+				"id": "6ad5edd9f5ef9a5ed41f8c09"
+			},
+			{
+				"id": "6ad5ef42681160e23b0abf14"
+			},
+			{
+				"id": "6ad5f0bf487c560b25fc824d"
+			},
+			{
+				"id": "6ad64bd15abd6a1b37ad6a26"
+			},
+			{
+				"id": "6ad64cab56540a2fbf4ee6f4"
+			},
+			{
+				"id": "6ad64cf4444874ba26d3a8c1"
+			}
+		]
+	}
+}
